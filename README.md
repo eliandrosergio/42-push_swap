@@ -1,4 +1,4 @@
-# push_swap
+# 42-push_swap
 
 O projeto *push_swap* da Escola 42 tem como objetivo implementar um algoritmo eficiente para ordenar um conjunto de números utilizando duas pilhas. O desafio é otimizar o número de movimentos (operações de empilhar e desempilhar) necessários para ordenar os números, sem utilizar funções de ordenação padrão.
 
